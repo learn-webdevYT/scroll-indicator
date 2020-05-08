@@ -1,5 +1,3 @@
-// Only die main js datei coden, rest nur mal kurz erklären und sagen was ich gemacht hab, musst jetzt nicht alles nochmal erklären es geht um
-//js tutorial nciht css oder html
 
 window.onscroll = function() {myFunction()};
 
